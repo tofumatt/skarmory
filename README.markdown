@@ -1,3 +1,3 @@
 # Skarmory #
 
-![Skarmory](./skarmory.png "Skarmory") Markdown test.
+![Skarmory](skarmory.png "Skarmory") Markdown test.
