@@ -1,3 +1,3 @@
 # Skarmory #
 
-![Skarmory](skarmory.png "Skarmory") Markdown test.
+![Skarmory](http://github.com/tofumatt/skarmory/raw/master/skarmory.png "Skarmory") Markdown test.
