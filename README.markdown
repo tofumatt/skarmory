@@ -1,8 +1,8 @@
-# Skarmory — It's Super Effective! #
+# ![In-game image of the Pokémon Skarmory](http://github.com/tofumatt/skarmory/raw/master/skarmory.png) Skarmory — It's Super Effective! #
 
 ## A JavaScript Twitter Library for Appcelerator Titanium ##
 
-![In-game image of the Pokémon Skarmory](http://github.com/tofumatt/skarmory/raw/master/skarmory.png) Skarmory is a JavaScript Twitter library for [Appcelerator Titanium](http://www.appcelerator.com/) that implements Twitter's REST API and OAuth authorization flow. It's named after the Pokémon [Skarmory](http://bulbapedia.bulbagarden.net/wiki/Skarmory), the only dual-type Steel/Flying Pokémon in existence.
+Skarmory is a JavaScript Twitter library for [Appcelerator Titanium](http://www.appcelerator.com/) that implements Twitter's REST API and OAuth authorization flow. It's named after the Pokémon [Skarmory](http://bulbapedia.bulbagarden.net/wiki/Skarmory), the only dual-type Steel/Flying Pokémon in existence.
 
 Thanks to [David Riccitelli](http://ziodave.tumblr.com/) for writing [oauth_adapter.js](http://code.google.com/p/oauth-adapter/), which gave me some ideas on how to write this library.
 
