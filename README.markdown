@@ -1,4 +1,4 @@
-# ![In-game image of the Pokémon Skarmory](http://github.com/tofumatt/skarmory/raw/master/skarmory.png) Skarmory — It's Super Effective! #
+# ![In-game image of the Pokémon Skarmory](https://github.com/tofumatt/skarmory/raw/master/skarmory.png) Skarmory — It's Super Effective! #
 
 ## A JavaScript Twitter Library for Appcelerator Titanium ##
 
